@@ -1,35 +1,78 @@
 {
   "project_info": {
-    "project_number": "659813643071",
-    "firebase_url": "https://ruedaz-co-dev.firebaseio.com",
-    "project_id": "ruedaz-co-dev",
-    "storage_bucket": "ruedaz-co-dev.appspot.com"
+    "project_number": "38606065113",
+    "firebase_url": "https://bops-dashboard.firebaseio.com",
+    "project_id": "bops-dashboard",
+    "storage_bucket": "bops-dashboard.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:659813643071:android:c525824d9e0c90d911d98a",
+        "mobilesdk_app_id": "1:38606065113:android:217a4a998133c0cda09dc8",
         "android_client_info": {
-          "package_name": "com.ruedaz.app"
+          "package_name": "com.drclik.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "659813643071-eb3vtsr6thhv2iihikcasdnqk3j75v9k.apps.googleusercontent.com",
+          "client_id": "38606065113-kieb6lt9piidshe0l2q80dq4co6tpb28.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDL0R1IKrdwtsL0hQ35CmzH5UCuQ4oQKnQ"
+          "current_key": "AIzaSyAnvRN_HXCW6Wth_TRfeUo69RU1uBqZnnU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "659813643071-eb3vtsr6thhv2iihikcasdnqk3j75v9k.apps.googleusercontent.com",
+              "client_id": "38606065113-kieb6lt9piidshe0l2q80dq4co6tpb28.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "38606065113-pnet7j7qh0g1nf7o81p17g0naagtga8k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.drclik.v3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38606065113:android:be2425c55c4840fda09dc8",
+        "android_client_info": {
+          "package_name": "com.drclik.v3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38606065113-kieb6lt9piidshe0l2q80dq4co6tpb28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnvRN_HXCW6Wth_TRfeUo69RU1uBqZnnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38606065113-kieb6lt9piidshe0l2q80dq4co6tpb28.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "38606065113-pnet7j7qh0g1nf7o81p17g0naagtga8k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.drclik.v3"
+              }
             }
           ]
         }

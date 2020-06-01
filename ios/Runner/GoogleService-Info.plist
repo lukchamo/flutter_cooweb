@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>659813643071-uo812tujeclv23oot46l464tmgoef4en.apps.googleusercontent.com</string>
+	<string>38606065113-hna71o9s18fm5mii7ofccst0ul4pllmi.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.659813643071-uo812tujeclv23oot46l464tmgoef4en</string>
+	<string>com.googleusercontent.apps.38606065113-hna71o9s18fm5mii7ofccst0ul4pllmi</string>
 	<key>API_KEY</key>
-	<string>AIzaSyC1EwONqdKGMSdBW8XqKyoSTfQFTon95uM</string>
+	<string>AIzaSyAkUPSQA3VMDl7ALtXV0MdY1X4_iMnQXq4</string>
 	<key>GCM_SENDER_ID</key>
-	<string>659813643071</string>
+	<string>38606065113</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.ruedaz.app</string>
+	<string>com.drclik.v3</string>
 	<key>PROJECT_ID</key>
-	<string>ruedaz-co-dev</string>
+	<string>bops-dashboard</string>
 	<key>STORAGE_BUCKET</key>
-	<string>ruedaz-co-dev.appspot.com</string>
+	<string>bops-dashboard.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:659813643071:ios:32c0e48ecdbaa0e411d98a</string>
+	<string>1:38606065113:ios:ea541cdd3f8bc449a09dc8</string>
 	<key>DATABASE_URL</key>
-	<string>https://ruedaz-co-dev.firebaseio.com</string>
+	<string>https://bops-dashboard.firebaseio.com</string>
 </dict>
 </plist>

@@ -1,4 +1,4 @@
-package com.ruedaz.app
+package com.drclik.v3
 
 import io.flutter.embedding.android.FlutterActivity
 
